@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "239461462760",
+    "project_id": "uems-4c42d",
+    "storage_bucket": "uems-4c42d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239461462760:android:463d689a1bf19410e34f5d",
+        "android_client_info": {
+          "package_name": "project.uevents.management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239461462760-8fb2amfa2fq804hreujghm41hei1qi4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.uevents.management",
+            "certificate_hash": "ae8c9992fd1529c12a1ba432da82d4e15f05b7e2"
+          }
+        },
+        {
+          "client_id": "239461462760-ji1jtuu60qtgus19t6hsl4ogr6gu60ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5cLKzfhQfLUChi5dWwzwxJjV7XnTkqDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239461462760-ji1jtuu60qtgus19t6hsl4ogr6gu60ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
